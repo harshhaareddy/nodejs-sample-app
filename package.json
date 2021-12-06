@@ -1,0 +1,13 @@
+{
+    "name": "docker_sample_app",
+    "version": "1.0.0",
+    "description": "Example of Node.js on Docker and demonstrating how to dockerize a node application",
+    "author": "harshhaareddy <harshhaa03@gmail.com>",
+    "main": "server.js",
+    "scripts": {
+      "start": "node server.js"
+    },
+    "dependencies": {
+      "express": "^4.17.1"
+    }
+  }
